@@ -1,0 +1,22 @@
+{
+  "name": "cars",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongose": "^0.0.2-security",
+    "morgan": "^1.10.0",
+    "morgane": "^1.0.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.16",
+    "password-hash": "^1.2.2"
+  }
+}
